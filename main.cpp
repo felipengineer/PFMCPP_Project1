@@ -52,57 +52,58 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: my mother
+//  action 1:  cooks very well
+my_mother.cooks();
+//  action 2:  always gets up early in the morning
+my:mother.GetsUpEarly();
+//  action 3:  bought some apples at a fruit store
+my.mother.BoughtApples();
 //  2)
-//  Noun:
-//  action 1:
+//  Noun:Lion
+//  action 1: a lion roars
+lion.roars();
+//  action 2: a lion figh
+lion.fight();
+//  action 3: a lion stalks its prey
+lion.stalks();
 
-//  action 2:
-
-//  action 3:
- 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:Nose
+//  action 1: a nose bleeds
+nose.bleeds();
+//  action 2: a nose some times itchs
+nose.itchs();
+//  action 3: a nose gets runny
+ nose.runny();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:Dogs
+//  action 1: can swim
+dogs.swim();
+//  action 2:  some times growl
+dogs.growl();
+//  action 3:  like to run
+ dogs.run();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:Trains
+//  action 1: are fast
+trains.fast();
+//  action 2: are loud
+trains.loud();
+//  action 3: some times crash
+ trains.crash();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Fire
+//  action 1: spreads fast
+fire.spreads();
+//  action 2: is dangerous
+fire.dangerous
+//  action 3: is esential
+ fire.esential();
 //  7)
-//  Noun:
-//  action 1:
-
+//  Noun: sound
+//  action 1: 
+soubd.
 //  action 2:
 
 //  action 3:
